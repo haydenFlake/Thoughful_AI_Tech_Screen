@@ -3,7 +3,7 @@ import { MASS_LIMIT, VOLUME_LIMIT, DIMENSION_LIMIT } from "./constants"
 
 /**
  * STANDARD: packages classified as neither bulky or heavy
- * SPECIAL: pckages that are either heaver or bulky
+ * SPECIAL: pckages that are either heavy or bulky
  * REJECTED: packages that are both heavy and bulky
  */
 export enum PackageStack {
