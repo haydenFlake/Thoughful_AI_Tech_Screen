@@ -1,0 +1,23 @@
+{
+  "name": "tech_screen",
+  "version": "1.0.0",
+  "main": "sort.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haydenFlake/Thoughful_AI_Tech_Screen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haydenFlake/Thoughful_AI_Tech_Screen/issues"
+  },
+  "homepage": "https://github.com/haydenFlake/Thoughful_AI_Tech_Screen#readme",
+  "description": "",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "ts-jest": "^29.4.5"
+  }
+}
