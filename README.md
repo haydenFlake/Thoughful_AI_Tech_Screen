@@ -1,8 +1,8 @@
 ## Technical Screening Files
-- sort.ts
-- sort.spec.ts
+- sort.ts - The sort function
+- sort.spec.ts - Test file
 
-## Run the test suite
+## Run The Test Suite
 1. Clone the repo `git clone https://github.com/haydenFlake/Thoughful_AI_Tech_Screen.git`
 2. `npm install`
 3. `npm run test`
